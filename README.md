@@ -1,0 +1,2 @@
+# Mailgenerator
+Script termux
